@@ -1,7 +1,7 @@
 {
   "maintenance": true,
-  "latestVersion": 1,
-  "minSupportedVersion": 1,
+  "latestVersion": 2,
+  "minSupportedVersion": 2,
   "message": "WARNING | This system is outdated and is no longer in use please download the LATEST VERSION | © FTS Enterprises",
   "status": "RELEASED",
   "blacklist": [
