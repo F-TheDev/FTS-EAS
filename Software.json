@@ -2,5 +2,10 @@
   "maintenance": true,
   "latestVersion": 1,
   "minSupportedVersion": 1,
-  "message": "WARNING | This system is outdated and is no longer in use please download the LATEST VERSION | © FTS Enterprises"
+  "message": "WARNING | This system is outdated and is no longer in use please download the LATEST VERSION | ",
+  "status": "RELEASED",
+  "blacklist": [
+    { "userId": 123456789, "reason": "Exploiting" },
+    { "userId": 987654321, "reason": "Chargeback" }
+  ]
 }
